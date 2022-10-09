@@ -48,7 +48,7 @@ class _LearnFlutterPageState extends State<LearnFlutterPage> {
               width: double.infinity,
               child: const Center(
                 child: Text(
-                  'This is a text widget',
+                  'This is a widget',
                   style: TextStyle(color: Colors.white),
                 ),
               ),
